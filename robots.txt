@@ -1,2 +1,7 @@
 User-agent: *
-Allow: /
+Disallow: /wp-admin/
+Disallow: /category/
+Allow: /wp-admin/admin-ajax.php
+Disallow: */feed/
+
+Sitemap: https://unblocked-games-66.pages.dev/sitemap_index.xml
